@@ -110,7 +110,7 @@ Timestamp Locked · Trace Context Declared
 
 <div align="center">
 
-[![Web Browser](https://img.shields.io/badge/Chromium_Based-black?style=flat&logo=googlechrome&logoColor=555555)](https://www.chromium.org/)
+[![Web Browser](https://img.shields.io/badge/Chromium_Based-black?style=flat&logo=googlechrome&logoColor=white)](https://www.chromium.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat&logo=codeforces&logoColor=white)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-black?style=flat&logo=notepadplusplus&logoColor=brightgreen)](https://notepad-plus-plus.org/downloads/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -139,7 +139,7 @@ Timestamp Locked · Trace Context Declared
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-56E9DB?style=neon&labelColor=0b0d0f&logo=googlechrome&logoColor=555555)](https://chat.openai.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-56E9DB?style=neon&labelColor=0b0d0f&logo=googlechrome&logoColor=white)](https://chat.openai.com)
 [![Grok](https://img.shields.io/badge/Grok-X.com-000000?style=neon&labelColor=0b0d0f&logo=x&logoColor=white)](https://x.com)
 [![Grok.com](https://img.shields.io/badge/Grok.com-xAI-000000?style=neon&labelColor=0b0d0f&logo=x&logoColor=white)](https://grok.com)
 [![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=0b0d0f&logo=anthropic&logoColor=D24D0F)](https://www.anthropic.com/claude)
@@ -148,6 +148,12 @@ Timestamp Locked · Trace Context Declared
 [![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=0b0d0f&logo=githubcopilot&logoColor=0078D4)](https://github.com/features/copilot)
 [![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=0b0d0f&logo=githubcopilot&logoColor=0078D4)](https://copilot.microsoft.com)
 [![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=0b0d0f&logo=huggingface&logoColor=6D2A8A)](https://lmstudio.ai)
+
+[![ROLI](https://img.shields.io/badge/ROLI-Music_Tech_Innovation-222222?style=neon&labelColor=0b0d0f&logo=musicbrainz&logoColor=00E68C)](https://roli.com/us)
+[![GitHub Projects Community](https://img.shields.io/badge/GitHub_Projects-Community-6D2A8A?style=neon&labelColor=0b0d0f&logo=github&logoColor=6D2A8A)](https://x.com/GithubProjects)
+[![Defence Science and Technology Group](https://img.shields.io/badge/DSTG_🦘-Australia_Defence_Science-0F52BA?style=neon&labelColor=0b0d0f&logo=radar&logoColor=0F52BA)](https://www.dst.defence.gov.au/)
+[![Advanced Strategic Capabilities Accelerator](https://img.shields.io/badge/ASCA_🦘-Strategic_Capabilities-0F52BA?style=neon&labelColor=0b0d0f&logo=radar&logoColor=0F52BA)](https://www.asca.gov.au/)
+[![WikiLeaks](https://img.shields.io/badge/WikiLeaks-Public_Disclosure-000000?style=neon&labelColor=0b0d0f&logo=wikipedia&logoColor=white)](https://wikileaks.org)
 
 
 ---
