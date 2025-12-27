@@ -1,9 +1,8 @@
 <div align="center">
-  
-# Conner Brown-Milliken
+ 
+# Conner Brown-Milliken 
 
-**Independent · Conceptualiser · Theorizer · Researcher**  
-Australia 🇦🇺
+**Independent · Conceptualiser · Theorizer · Researcher · 🇦🇺**  
 
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator) <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><img alt="Polyrifringence Engine" src="https://img.shields.io/badge/Main_Project-Polyrifringence%20Engine-111111?style=flat&logo=github&logoColor=ffffff"></a>
 
@@ -19,6 +18,8 @@ Australia 🇦🇺
 
 ## About
 
+---
+
 I build and formalize **high-constraint systems** where **structure, timing, and bounded feedback** can outperform magnitude-first assumptions—**without violating physics**.
 
 My work spans:
@@ -33,6 +34,8 @@ I do not optimize for casual skim-readers. I optimize for **technical clarity, f
 
 ## Research Stance (Hard Boundary)
 
+---
+
 - **No new physical laws are proposed.**
 - **No energy is created, regenerated, or amplified.**
 - **No entropy is eliminated or reversed.**
@@ -45,6 +48,8 @@ The term **observer** is used in a **formal, non-anthropic sense**: a constraint
 
 ## Focus Areas
 
+---
+
 - **Constraint-first engineering** — limits define capability, not the other way around  
 - **Coherence persistence** under lawful thermodynamics  
 - **Recursive stabilization** — bounded recursion depth, convergence behavior, drift collapse  
@@ -55,12 +60,7 @@ The term **observer** is used in a **formal, non-anthropic sense**: a constraint
 
 ## Featured Projects (Portfolio)
 
-### Polyrifringence Engine  
-A **canonical research and disclosure framework** formalizing *recursive birefringence* as a strictly constrained, non-equilibrium system. The engine models how optical and computational coherence can be **recovered and temporally extended** through structural alignment, bounded recursion, and lawful dissipation—without proposing new physics, extracting energy, or reversing entropy.  
-
-It integrates classical optical formalisms, recursive tensor feedback, explicit thermodynamic non-claims, symbolic constraint indexing, and empirically bounded decay / half-life behavior validated on real consumer hardware.  
-
-Repo: [https://github.com/Wotcnt/Polyrifringence-Engine]
+---
 
 ### Polyrifringence Engine  
 A **canonical research, validation, and disclosure framework** formalizing *recursive birefringence* as a strictly constrained, non-equilibrium system. It demonstrates how optical and computational coherence can be **temporally extended and repeatedly recovered** through structural alignment and bounded recursion, without violating thermodynamics, creating energy, or reversing entropy. The engine integrates classical optics, GPU-accelerated simulation, explicit non-claims, and reproducible decay/half-life analysis on real consumer hardware.  
@@ -91,6 +91,8 @@ The **origin lineage** of the entire body of work. MMMD exposed the failure of m
 
 ## How I Work
 
+---
+
 - **Prototype-first, constraint-led** — ideas are abundant; only systems that survive explicit constraints, bounds, and failure conditions are kept.
 - **Failure-mode driven** — noise, drift, instability, and collapse are treated as diagnostic signals, not defects to be hidden or smoothed away.
 - **Rigor over aesthetics** — unconventional structure or presentation is acceptable when it prevents category errors, misinterpretation, or false generalization.
@@ -102,6 +104,8 @@ The **origin lineage** of the entire body of work. MMMD exposed the failure of m
 
 ## Collaboration & Engagement
 
+---
+
 I respond best to:
 - careful reading (full context, not excerpts),
 - falsification attempts and replication-minded critique,
@@ -111,7 +115,8 @@ I respond best to:
 Low-signal engagement—speculation-only outreach, summary requests, or arguments that ignore scope constraints—is generally unproductive.
 
 ---
-
+<div align="center">
+  
 *Clarity beats accessibility.  
 Constraint beats hype.  
 If a claim can’t be bounded, it doesn’t belong in the record.*
