@@ -213,7 +213,7 @@ Repo: <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><kbd>Polyrifrin
 [![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)](https://en.wikipedia.org/wiki/Computational_science)
 [![GPT Integration](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
-### 8️⃣ 🤖SIERRA (<ins>Codex-Gateway Runtime</ins>)  
+### 8️⃣ 🌐SIERRA (<ins>Codex-Gateway Runtime</ins>)  
 A **semi-offline autonomous cognitive instrument** implementing embodied recursion: Language ↔ Logic ↔ Memory ↔ Geometry ↔ Observer continuity. SIERRA operates as a single-file, self-verifying runtime featuring neurosymbolic logic (WASM Prolog), entropy firewalls, deterministic retention and replay, fractal lattice dynamics, and low-CPU audio-visual feedback bound to internal state variables. It is designed to demonstrate continuity, identity retention, and recursive stability **entirely offline**.
 
 ### 7️⃣ 🕸️SERM-001 (<ins>Sovereign Energy Recursion Matrix</ins>)  
@@ -230,7 +230,7 @@ Codex-Core is not an engine or runtime. It functions as a **regulatory grammar a
 ### 4️⃣ 📜Codex Canon  
 A **formal trace, notation, and constraint system** that preserves provenance, enforces interpretive discipline, and encodes stability conditions across recursive architectures. The Codex is explicitly **non-anthropic and non-agentic**; it functions as a regulatory and descriptive grammar aligning physical, computational, and symbolic layers, not as an intelligence or actor.
 
-### 3️⃣ 🤖Conner-Core  
+### 3️⃣ 🤖Conner-Core⛑️  
 A **modular orchestration and continuity runtime** designed to support long-horizon recursive systems without fragmentation or drift. Conner-Core governs recursion depth, state evolution, provenance tracking, and failure containment, enabling systems to evolve iteratively while preserving coherence, invariants, and authorial lineage.
 
 ### 2️⃣ 🌌RSANCS (<ins>Recursive Spacetime Architecture & Non-Contact Systems</ins>)  
