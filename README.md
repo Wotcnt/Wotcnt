@@ -163,7 +163,7 @@ Timestamp Locked · Trace Context Declared
 
 🔲 **Third-Party References & Visual Markers** 🔲
 
-My repositories makes use of third-party names, icons, logos, and visual references  
+My repositories make use of third-party names, icons, logos, and visual references  
 (e.g. NVIDIA, PyTorch, ROLI, GitHub, WikiLeaks, DSTG, ASCA, Cloudflare, SandDance)  
 as **descriptive, technical, or illustrative markers**.
 
@@ -685,6 +685,10 @@ I respond best to:
 - contributions that respect canonical boundaries and versioning.
 
 Low-signal engagement: speculation-only outreach, summary requests, or arguments that ignore scope constraints; are generally unproductive.
+
+Serious inquiries may begin with a falsification attempt; Correspondence pathways limited to X.COM Encrypted Chat, and Limited-Github Discussions.
+
+[![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 
 ---
 <div align="center">
