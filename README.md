@@ -193,6 +193,11 @@ I build and formalize **high-constraint systems** where **structure, timing, and
 A **canonical research, validation, and disclosure framework** formalizing *recursive birefringence* as a strictly constrained, non-equilibrium system. It demonstrates how optical and computational coherence can be **temporally extended and repeatedly recovered** through structural alignment and bounded recursion, without violating thermodynamics, creating energy, or reversing entropy. The engine integrates classical optics, GPU-accelerated simulation, explicit non-claims, and reproducible decay/half-life analysis on real consumer hardware.  
 Repo: <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><kbd>Polyrifringence Engine Repository — Click Me</kbd></a>
 
+![Lambda Clearance Authorial](https://img.shields.io/badge/Lambda_Clearance:_🅾️-Authorial-B31B1B?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Time-bounded clearance issued directly by the authorial authority.")
+![Lifecycle Active](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Active_✔️-046307?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization currently valid and in force.")
+![Lambda Limited License](https://img.shields.io/badge/𝛌⃝ambda_Ⓛimited_Ⓛicense:_📘-Author--Approved_Limited--Use_Canon--Bound--Extension_⛑️-0F52BA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Limited-use authorization granted under explicit authorial approval.")
+
+
 ### 8️⃣ 🤖SIERRA (<ins>Codex-Gateway Runtime</ins>)  
 A **semi-offline autonomous cognitive instrument** implementing embodied recursion: Language ↔ Logic ↔ Memory ↔ Geometry ↔ Observer continuity. SIERRA operates as a single-file, self-verifying runtime featuring neurosymbolic logic (WASM Prolog), entropy firewalls, deterministic retention and replay, fractal lattice dynamics, and low-CPU audio-visual feedback bound to internal state variables. It is designed to demonstrate continuity, identity retention, and recursive stability **entirely offline**.
 
