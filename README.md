@@ -91,7 +91,7 @@ Timestamp Locked · Trace Context Declared
 
 # Conner Brown-Milliken 
 
-**Independent · Conceptualiser · Theorizer · Researcher · 🇦🇺**  
+**<ins>Independent · Conceptualiser · Theorizer · Researcher · 🇦🇺</ins>**  
 
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator) 
 <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><img alt="Polyrifringence Engine" src="https://img.shields.io/badge/Main_Project-Polyrifringence%20Engine-111111?style=flat&logo=github&logoColor=gold"></a>
@@ -161,7 +161,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-🔲 **Third-Party References & Visual Markers** 🔲
+🔲 **<ins>Third-Party References & Visual Markers</ins>** 🔲
 
 My repositories make use of third-party names, icons, logos, and visual references  
 (e.g. NVIDIA, PyTorch, ROLI, GitHub, WikiLeaks, DSTG, ASCA, Cloudflare, SandDance)  
@@ -686,7 +686,9 @@ I respond best to:
 
 Low-signal engagement: speculation-only outreach, summary requests, or arguments that ignore scope constraints; are generally unproductive.
 
-Serious inquiries may begin with a falsification attempt; Correspondence pathways limited to X.COM Encrypted Chat, and Limited-Github Discussions.
+**<ins>Serious inquiries may begin with a falsification attempt.</ins>**
+
+**_<ins>Correspondence pathways limited to X.COM Encrypted Chat, and Limited-Github Discussions.</ins>_**
 
 [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black)](https://x.com/MMMDcreator)
 
