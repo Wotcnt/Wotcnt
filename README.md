@@ -85,7 +85,7 @@ A **semi-offline autonomous cognitive instrument** implementing embodied recursi
 A **theoretical synthesis framework** exploring recursion-first architectures, observer-modulated phase framing, and layered constraint geometries across physical, computational, and symbolic domains. RSANCS serves as the conceptual proving ground where architectural patterns are stress-tested before formalization or implementation.
 
 ### MMMD (Modular Matter Manipulation Device)  
-The **origin lineage** of the entire body of work. MMMD exposed the failure of magnitude-first, linear assumptions and forced the transition toward recursion, bounded structure, constraint-led reasoning, and cross-domain synthesis that now underpins Polyrifringence, Conner-Core, Codex, SERM-001, and SIERRA.
+The **origin lineage** of the entire body of work. MMMD exposed the failure of magnitude-first, linear assumptions and forced the transition toward recursion, bounded structure, constraint-led reasoning, and cross-domain synthesis that now underpins Polyrifringence, Conner-Core, Codex-Core, SERM-001, SIERRA and RSANCS.
 
 ---
 
