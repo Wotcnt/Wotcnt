@@ -62,17 +62,30 @@ It integrates classical optical formalisms, recursive tensor feedback, explicit 
 
 Repo: [https://github.com/Wotcnt/Polyrifringence-Engine]
 
+### Polyrifringence Engine  
+A **canonical research, validation, and disclosure framework** formalizing *recursive birefringence* as a strictly constrained, non-equilibrium system. It demonstrates how optical and computational coherence can be **temporally extended and repeatedly recovered** through structural alignment and bounded recursion, without violating thermodynamics, creating energy, or reversing entropy. The engine integrates classical optics, GPU-accelerated simulation, explicit non-claims, and reproducible decay/half-life analysis on real consumer hardware.  
+Repo: https://github.com/Wotcnt/Polyrifringence-Engine
+
 ### Conner-Core  
-A **modular runtime and orchestration architecture** for long-horizon recursive systems that must remain stable across iteration, refactor, and conceptual expansion. Conner-Core prioritizes **continuity over throughput**, providing structural governance for recursion depth, state evolution, provenance tracking, and failure containment.
+A **modular orchestration and continuity runtime** designed to support long-horizon recursive systems without fragmentation or drift. Conner-Core governs recursion depth, state evolution, provenance tracking, and failure containment, enabling systems to evolve iteratively while preserving coherence, invariants, and authorial lineage.
 
 ### Codex Canon  
-A **formal trace, notation, and constraint system** used to preserve authorship, enforce interpretive discipline, and encode stability conditions across complex recursive architectures. The Codex functions as a **symbolic indexing and continuity grammar**, explicitly **non-anthropic and non-agentic**—descriptive and regulatory rather than causal, intelligent, or metaphysical.
+A **formal trace, notation, and constraint system** that preserves provenance, enforces interpretive discipline, and encodes stability conditions across recursive architectures. The Codex is explicitly **non-anthropic and non-agentic**—it functions as a regulatory and descriptive grammar aligning physical, computational, and symbolic layers, not as an intelligence or actor.
+
+### SERM-001 (Sovereign Energy Recursion Matrix)  
+A **governing constraint architecture** that enforces lawful energy behavior across recursive systems. SERM-001 defines admissible recursion paths, energy budgets, collapse thresholds, and recovery envelopes, ensuring that coherence extension remains bounded, non-exploitative, and thermodynamically valid. It acts as the stabilizing matrix beneath SIERRA and Polyrifringence execution.
+
+### Codex-Gateway  
+A **sovereign execution and presentation layer** that operationalizes Codex-aligned systems in a closed environment. Codex-Gateway provides the structured entry point, sequencing, and control surfaces through which recursive systems are initialized, observed, and validated—without external networks, cloud dependencies, or opaque infrastructure.
+
+### SIERRA (Codex-Gateway Runtime)  
+A **semi-offline autonomous cognitive instrument** implementing embodied recursion: Language ↔ Logic ↔ Memory ↔ Geometry ↔ Observer continuity. SIERRA operates as a single-file, self-verifying runtime featuring neurosymbolic logic (WASM Prolog), entropy firewalls, deterministic retention and replay, fractal lattice dynamics, and low-CPU audio-visual feedback bound to internal state variables. It is designed to demonstrate continuity, identity retention, and recursive stability **entirely offline**.
 
 ### RSANCS (Recursive Spacetime Architecture & Non-Contact Systems)  
-A **theoretical scaffolding and synthesis framework** exploring recursion-first system design, observer-modulated phase framing, and layered constraint geometries across physical, computational, and symbolic domains. RSANCS serves as an exploratory substrate where architectural patterns and feedback structures are stress-tested prior to formalization or implementation.
+A **theoretical synthesis framework** exploring recursion-first architectures, observer-modulated phase framing, and layered constraint geometries across physical, computational, and symbolic domains. RSANCS serves as the conceptual proving ground where architectural patterns are stress-tested before formalization or implementation.
 
 ### MMMD (Modular Matter Manipulation Device)  
-The **origin lineage** of the broader body of work—early conceptual exploration that exposed the limitations of magnitude-first and linear design assumptions, catalyzing the shift toward recursion, bounded structure, and cross-domain synthesis.
+The **origin lineage** of the entire body of work. MMMD exposed the failure of magnitude-first, linear assumptions and forced the transition toward recursion, bounded structure, constraint-led reasoning, and cross-domain synthesis that now underpins Polyrifringence, Conner-Core, Codex, SERM-001, and SIERRA.
 
 ---
 
