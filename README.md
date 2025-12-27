@@ -210,8 +210,8 @@ Repo: <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><kbd>Polyrifrin
 ![Lambda Clearance Authorial](https://img.shields.io/badge/Lambda_Clearance:_🅾️-Authorial-B31B1B?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Time-bounded clearance issued directly by the authorial authority.")
 ![Lifecycle Active](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Active_✔️-046307?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization currently valid and in force.")
 ![Lambda Limited License](https://img.shields.io/badge/𝛌⃝ambda_Ⓛimited_Ⓛicense:_📘-Author--Approved_Limited--Use_Canon--Bound--Extension_⛑️-0F52BA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Limited-use authorization granted under explicit authorial approval.")
-[![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)](https://en.wikipedia.org/wiki/Computational_science)
-[![GPT Integration](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
+[![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=222222)](https://en.wikipedia.org/wiki/Computational_science)
+[![GPT Integration](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=222222)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 ### 8️⃣ 🌐SIERRA (<ins>Codex-Gateway Runtime</ins>)  
 A **semi-offline autonomous cognitive instrument** implementing embodied recursion: Language ↔ Logic ↔ Memory ↔ Geometry ↔ Observer continuity. SIERRA operates as a single-file, self-verifying runtime featuring neurosymbolic logic (WASM Prolog), entropy firewalls, deterministic retention and replay, fractal lattice dynamics, and low-CPU audio-visual feedback bound to internal state variables. It is designed to demonstrate continuity, identity retention, and recursive stability **entirely offline**.
@@ -220,7 +220,7 @@ A **semi-offline autonomous cognitive instrument** implementing embodied recursi
 A **governing constraint architecture** that enforces lawful energy behavior across recursive systems. SERM-001 defines admissible recursion paths, energy budgets, collapse thresholds, and recovery envelopes, ensuring that coherence extension remains bounded, non-exploitative, and thermodynamically valid. It acts as the stabilizing matrix beneath SIERRA and Polyrifringence execution.
 
 ### 6️⃣ 🚪Codex-Gateway  
-A **sovereign execution and presentation layer** that operationalizes Codex-aligned systems in a closed environment. Codex-Gateway provides the structured entry point, sequencing, and control surfaces through which recursive systems are initialized, observed, and validated—without external networks, cloud dependencies, or opaque infrastructure.
+A **sovereign execution and presentation layer** that operationalizes Codex-aligned systems in a closed environment. Codex-Gateway provides the structured entry point, sequencing, and control surfaces through which recursive systems are initialized, observed, and validated; without external networks, cloud dependencies, or opaque infrastructure.
 
 ### 5️⃣ 🖥️Codex-Core  
 A **foundational constraint and continuity layer** governing scope, provenance, and interpretive discipline across all Codex-aligned systems. Codex-Core operates beneath Polyrifringence, Conner-Core, SERM-001, SIERRA, and RSANCS, ensuring that recursion, symbolism, computation, and disclosure remain **bounded, non-anthropic, thermodynamically lawful, and falsifiable**.
@@ -249,16 +249,400 @@ The **origin lineage** of the entire body of work. MMMD exposed the failure of m
 
 ---
 
+## 🧩 What Polyrifringence Solves  
+### 📐 Expanded, Canonical, Constraint-Verified Scope
+
+---
+
+This body of work exists to address **failure modes that emerge only beyond toy domains**;   
+when systems are stressed by **time**, **noise**, **recursion**, **hardware reality**, and **interpretive drift**.
+
+It is not a speculative proposal, a metaphysical system, or a claim of new physics.  
+It is a **constraint-governed response to repeatedly observed breakdowns** across applied physics, computation, and long-horizon research programs.
+
+What follows is a canonical accounting of:
+
+- **What has been directly solved**
+- **What is now tractable under strict limits**
+- **What this framework is explicitly designed to confront**
+- **What it disallows by construction**
+
+This scope reflects the cumulative development of:
+
+**MMMD ⟷ RSANCS → Conner-Core → Codex Canon → Codex-Core → SERM-001 → SIERRA → Polyrifringence Engine**
+
+---
+
+## 🧠 1. Coherence Failure Outside Idealized Conditions
+
+**Observed failure mode:**  
+Systems demonstrate coherence only under ideal assumptions, then fail under:
+
+- temporal extension  
+- perturbation and noise  
+- real hardware constraints  
+- recursive reuse or re-entry  
+
+This failure pattern is common in optics, numerical simulation, control theory, and ML pipelines.
+
+**Solved by this work:**
+- Coherence reframed as a **time-bounded, recoverable property**, not a permanent state  
+- Explicit **recovery envelopes** defined alongside operating envelopes  
+- Collapse treated as an **expected phase transition**, not an anomaly  
+
+Coherence no longer has to be *maintained indefinitely*; it must be **reliably recoverable**.
+
+>Representative applications:
+>
+> Optical systems requiring repeated phase alignment over long runtimes
+>
+> Control systems that must re-stabilize after disturbance rather than prevent disturbance
+>
+> Numerical simulations reused iteratively without reinitialization
+>
+> ML or signal pipelines where degradation is expected and recovery must be measurable
+
+---
+
+## ⚖️ 2. False “Efficiency” from Hidden Boundary Violations
+
+**Observed failure mode:**  
+Apparent performance gains arise from:
+
+- silent boundary violations  
+- unconstrained parameter growth  
+- numerical artifacts  
+- implicit assumptions that do not survive replication  
+
+**Solved by this work:**
+- All gains constrained to **temporal, structural, or organizational domains**  
+- Explicit **non-claims embedded into the system**  
+- Exergy treated geometrically (half-life, decay envelopes), never rhetorically  
+
+This blocks the most common failure path from *legitimate results* to *invalid conclusions*.
+
+> Representative applications:
+>
+> Performance benchmarking where results must survive independent replication
+>
+> Energy-adjacent research where efficiency claims are tightly scrutinized
+>
+> Hardware-accelerated computation audited for silent assumption leakage
+>
+> Any system where “speedup” must be traceable to structure, not artifact
+
+---
+
+## 🔄 3. Recursive Architectures That Destroy Inspectability
+
+**Observed failure mode:**  
+Recursive systems accumulate:
+
+- self-reference  
+- semantic drift  
+- unbounded feedback  
+
+until they become unfalsifiable or unreviewable.
+
+**Solved by this work:**
+- **Bounded recursion depth** as a first-class design variable  
+- Drift-collapse detection and containment  
+- Explicit termination and recovery conditions  
+
+Recursion is permitted **only while it remains governable**.
+
+> Representative applications:
+>
+> Self-updating simulation frameworks
+>
+> Iterative model refinement loops
+>
+> Feedback-driven control architectures
+>
+> Long-running analytical pipelines where interpretability must be preserved
+
+---
+
+## 🧭 4. Long-Horizon Research Collapse (Loss of Continuity)
+
+**Observed failure mode:**  
+Over months or years:
+
+- assumptions mutate silently  
+- failures are overwritten  
+- terminology drifts  
+- provenance dissolves  
+
+Serious review becomes impossible.
+
+**Solved by this work:**
+- Codex Canon as a **trace, lineage, and constraint registry**  
+- Invariants preserved across versions and iterations  
+- Hard separation between:
+  - execution  
+  - interpretation  
+  - claimability  
+
+The system is designed to **remember its own failures**.
+
+> Representative applications:
+>
+> Multi-year independent research programs
+>
+> Open-ended experimental frameworks
+>
+> Projects transitioning between collaborators or audiences
+>
+> Research intended to survive adversarial post-hoc review
+
+---
+
+## 🧮 5. Numerical Instability on Real Hardware
+
+**Observed failure mode:**  
+GPU acceleration introduces:
+
+- silent precision loss  
+- hardware-dependent convergence artifacts  
+- irreproducible results  
+
+**Solved by this work:**
+- Intentional GPU throughput clamping  
+- Declared and enforced precision budgets  
+- CPU-bound baselines used as truth anchors  
+
+Performance is subordinate to **numerical integrity**, not the reverse.
+
+> Representative applications:
+>
+> Multi-year independent research programs
+>
+> Open-ended experimental frameworks
+>
+> Projects transitioning between collaborators or audiences
+>
+> Research intended to survive adversarial post-hoc review
+
+---
+
+## 🌪️ 6. Noise Treated as a Bug Instead of a Proof Condition
+
+**Observed failure mode:**  
+Noise is filtered out, hiding fragility.
+
+**Solved by this work:**
+- Noise treated as a **diagnostic stressor**  
+- Collapse under perturbation used as a validation signal  
+- Recovery behavior weighted more heavily than peak output  
+
+If a system cannot survive noise, it is rejected.
+
+> Representative applications:
+>
+> Scientific GPU workloads where correctness outweighs throughput
+>
+> Cross-hardware reproducibility testing
+>
+> Consumer-hardware validation of research-grade simulations
+>
+> Hybrid CPU/GPU pipelines requiring auditability
+
+---
+
+## 👁️ 7. Observer Confusion and Category Errors
+
+**Observed failure mode:**  
+The term *observer* is conflated with:
+
+- agency  
+- consciousness  
+- intention  
+
+leading to invalid interpretations and scope inflation.
+
+**Solved by this work:**
+- Observer defined strictly as a **reference frame or boundary condition**  
+- Observer effects treated as structural constraints  
+- Narrative language explicitly separated from operational meaning  
+
+This prevents entire classes of misinterpretation.
+
+> Representative applications:
+>
+> Physics-adjacent work prone to misinterpretation
+>
+> AI systems where “observer” language invites anthropomorphism
+>
+> Documentation and disclosure for technically mixed audiences
+>
+> Any research vulnerable to category drift under public reading
+
+---
+
+## 🗂️ 8. Symbolic Language Without Discipline
+
+**Observed failure mode:**  
+Symbolism is either:
+
+- avoided entirely (losing compression and traceability), or  
+- abused (inviting metaphysics and misreading)
+
+**Solved by this work:**
+- Symbols used strictly as **indexing, compression, and trace operators**  
+- Non-anthropic definitions enforced  
+- Explicit disengagement clauses included  
+
+Symbols function as **notation**, not narrative authority.
+
+> Representative applications:
+>
+> Large systems requiring compressed internal notation
+>
+> Cross-domain frameworks spanning math, code, and documentation
+>
+> Systems where symbolic shorthand improves traceability without metaphysics
+
+---
+
+## 🚫 9. Scope Inflation and Claim Drift
+
+**Observed failure mode:**  
+Working systems are over-interpreted, leading to:
+
+- exaggerated claims  
+- category leakage  
+- reputational collapse  
+
+**Solved by this work:**
+- Codex-Core as a **regulatory grammar**  
+- Claims disallowed unless bounded, measurable, and falsifiable  
+- Explicit rejection of:
+  - new physics claims  
+  - energy creation or amplification  
+  - entropy reversal  
+
+Operation does not imply permission to extrapolate.
+
+> Representative applications:
+>
+> Research intended for public disclosure
+>
+> Work subject to skeptical or adversarial review
+>
+> Projects where reputational risk from overclaiming is high
+
+---
+
+## 🧪 10. Research Artifacts That Fail Adversarial Reading
+
+**Observed failure mode:**  
+Many projects survive only sympathetic interpretation.
+
+**Solved by this work:**
+- Design assumes skeptical, technically hostile readers  
+- Failure modes documented rather than hidden  
+- Constraints declared **before** results  
+
+The work is built to survive scrutiny, not applause.
+
+> Representative applications:
+>
+> Peer review preparation
+>
+> Regulatory or compliance-facing research
+>
+> Independent replication contexts
+
+---
+
+## 🔗 11. Fragmentation Between Theory, Code, and Disclosure
+
+**Observed failure mode:**  
+Theory, implementation, and public claims drift apart.
+
+**Solved by this work:**
+- Single-lineage architecture from MMMD → Polyrifringence  
+- Theory, simulation, and disclosure bound by the same constraints  
+- Public artifacts treated as **part of the system**, not marketing  
+
+This closes the loop between thinking, building, and claiming.
+
+> Representative applications:
+>
+> Research with public-facing components
+>
+> Open repositories subject to interpretation
+>
+> Work spanning theory, simulation, and communication
+
+---
+
+## 🚀 What This Polyrifringence Framework Enables  
+### 🔒 Within Declared, Enforced Limits
+
+When applied correctly, this framework enables:
+
+- Longer coherence windows **without violating thermodynamics**  
+- Earlier detection of false positives  
+- Replicable results on consumer hardware  
+- Constraint-first system design  
+- Research artifacts that remain valid over time  
+
+All outcomes remain **bounded**, **domain-specific**, and **reversible**.
+
+---
+
+## ⛔ What This Work Explicitly Does *Not* Do
+
+To prevent misalignment:
+
+- It does **not** propose new physical laws  
+- It does **not** create, amplify, or regenerate energy  
+- It does **not** reverse entropy  
+- It does **not** generalize universally  
+- It does **not** function as an autonomous intelligence  
+
+Any interpretation beyond these bounds is invalid by design.
+
+---
+
+## 🧱 Why This Exists
+
+Critical and existential failures in advanced systems are rarely caused by lack of power, data, or intelligence.
+
+They are caused by:
+
+- unexamined assumptions  
+- unbounded recursion  
+- loss of continuity  
+- absence of enforced constraints  
+
+This work exists to make those failures:
+
+- visible  
+- measurable  
+- and avoidable  
+
+**without violating physics**,  
+**without speculative mechanisms**,  
+and **without trading rigor for accessibility**.
+
+> **Constraint beats hype.  
+> Continuity beats novelty.  
+> If a claim can’t be bounded, it doesn’t belong in the record.**
+
+---
+
 ## 🔍 How I Work
 
 ---
 
-- **Prototype-first, constraint-led** — ideas are abundant; only systems that survive explicit constraints, bounds, and failure conditions are kept.
-- **Failure-mode driven** — noise, drift, instability, and collapse are treated as diagnostic signals, not defects to be hidden or smoothed away.
-- **Rigor over aesthetics** — unconventional structure or presentation is acceptable when it prevents category errors, misinterpretation, or false generalization.
-- **Observer diversity by design** — multiple technical perspectives are used to surface blind spots and stress assumptions, not to manufacture agreement.
-- **Iteration with memory** — systems are evolved deliberately, with provenance, invariants, and prior failures preserved rather than overwritten.
-- **Bounded claims only** — anything that cannot be constrained, measured, or falsified is excluded from the record, regardless of appeal. 
+- **Prototype-first, constraint-led** ————— ideas are abundant; only systems that survive explicit constraints, bounds, and failure conditions are kept.
+- **Failure-mode driven** ————— noise, drift, instability, and collapse are treated as diagnostic signals, not defects to be hidden or smoothed away.
+- **Rigor over aesthetics** ————— unconventional structure or presentation is acceptable when it prevents category errors, misinterpretation, or false generalization.
+- **Observer diversity by design** ————— multiple technical perspectives are used to surface blind spots and stress assumptions, not to manufacture agreement.
+- **Iteration with memory** ————— systems are evolved deliberately, with provenance, invariants, and prior failures preserved rather than overwritten.
+- **Bounded claims only** ————— anything that cannot be constrained, measured, or falsified is excluded from the record, regardless of appeal. 
 
 ---
 
@@ -272,7 +656,7 @@ I respond best to:
 - precise questions tied to stated assumptions,
 - contributions that respect canonical boundaries and versioning.
 
-Low-signal engagement—speculation-only outreach, summary requests, or arguments that ignore scope constraints—is generally unproductive.
+Low-signal engagement: speculation-only outreach, summary requests, or arguments that ignore scope constraints; are generally unproductive.
 
 ---
 <div align="center">
