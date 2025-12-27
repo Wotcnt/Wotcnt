@@ -222,7 +222,7 @@ A **governing constraint architecture** that enforces lawful energy behavior acr
 ### 6️⃣ 🚪Codex-Gateway  
 A **sovereign execution and presentation layer** that operationalizes Codex-aligned systems in a closed environment. Codex-Gateway provides the structured entry point, sequencing, and control surfaces through which recursive systems are initialized, observed, and validated—without external networks, cloud dependencies, or opaque infrastructure.
 
-### 5️⃣ ⚙️Codex-Core  
+### 5️⃣ 🖥️Codex-Core  
 A **foundational constraint and continuity layer** governing scope, provenance, and interpretive discipline across all Codex-aligned systems. Codex-Core operates beneath Polyrifringence, Conner-Core, SERM-001, SIERRA, and RSANCS, ensuring that recursion, symbolism, computation, and disclosure remain **bounded, non-anthropic, thermodynamically lawful, and falsifiable**.
 
 Codex-Core is not an engine or runtime. It functions as a **regulatory grammar and invariant registry**, defining admissible claims, enforcing non-claims, anchoring lineage, and preventing semantic drift, scope inflation, and category errors as systems evolve. Deliberately conservative by design, it prioritizes auditability, constraint preservation, and coherence under scrutiny, serving as the **continuity anchor** that enables long-horizon recursive research without fragmentation or mythologizing. Where Conner-Core governs *how* systems operate, Codex-Core governs *what may be claimed or inferred* about them.
@@ -230,11 +230,13 @@ Codex-Core is not an engine or runtime. It functions as a **regulatory grammar a
 ### 4️⃣ 📜Codex Canon  
 A **formal trace, notation, and constraint system** that preserves provenance, enforces interpretive discipline, and encodes stability conditions across recursive architectures. The Codex is explicitly **non-anthropic and non-agentic**; it functions as a regulatory and descriptive grammar aligning physical, computational, and symbolic layers, not as an intelligence or actor.
 
-### 3️⃣ 🤖Conner-Core⛑️  
+### 3️⃣ ⛑️Conner-Core  
 A **modular orchestration and continuity runtime** designed to support long-horizon recursive systems without fragmentation or drift. Conner-Core governs recursion depth, state evolution, provenance tracking, and failure containment, enabling systems to evolve iteratively while preserving coherence, invariants, and authorial lineage.
 
 ### 2️⃣ 🌌RSANCS (<ins>Recursive Spacetime Architecture & Non-Contact Systems</ins>)  
 A **theoretical synthesis framework** exploring recursion-first architectures, observer-modulated phase framing, and layered constraint geometries across physical, computational, and symbolic domains. RSANCS serves as the conceptual proving ground where architectural patterns are stress-tested before formalization or implementation.
+
+<kbd>1️⃣⇅2️⃣</kbd>
 
 ### 1️⃣ MMMD <kbd>🌈 - 🧲 - 💎 - 🎼 - ⚡ - ✨</kbd> (<ins>Modular Matter Manipulation Device</ins>)  
 The **origin lineage** of the entire body of work. MMMD exposed the failure of magnitude-first, linear assumptions and forced the transition toward recursion, bounded structure, constraint-led reasoning, and cross-domain synthesis that now underpins Polyrifringence, Conner-Core, Codex-Core, SERM-001, SIERRA and RSANCS.
