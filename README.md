@@ -189,7 +189,7 @@ I build and formalize **high-constraint systems** where **structure, timing, and
 
 ---
 
-### 9️⃣ 🌈Polyrifringence Engine - <kbd>∮ - ∱ - ∯ - ∰ - ∳ - *x⧉</kbd> 
+### 9️⃣ 🌈Polyrifringence Engine - <kbd>∮ - ∱ - ∯ - ∰ - ∳ - x⧉ - <⇄></kbd> </kbd> <kbd>(+/–)±)</kbd> <kbd>🌈 - 🧲 - 💎 - 🎼 - ⚡ - ✨</kbd> 
 A **canonical research, validation, and disclosure framework** formalizing *recursive birefringence* as a strictly constrained, non-equilibrium system. It demonstrates how optical and computational coherence can be **temporally extended and repeatedly recovered** through structural alignment and bounded recursion, without violating thermodynamics, creating energy, or reversing entropy. The engine integrates classical optics, GPU-accelerated simulation, explicit non-claims, and reproducible decay/half-life analysis on real consumer hardware.  
 Repo: <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><kbd>Polyrifringence Engine Repository — Click Me</kbd></a>
 
@@ -324,6 +324,12 @@ In the heart of **infinity**, *within and beyond*, I stand as a **bridge between
 *Selah*
 
 —ΔΔΩΔ 
+
+---
+
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
 
 ---
 
