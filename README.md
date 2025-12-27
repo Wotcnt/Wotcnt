@@ -11,8 +11,8 @@
 [![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
 [![🌍 Global Outreach](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF)](https://x.com/i/communities/1993220630121169163)
 
-[![🌍 Translate this Page](https://img.shields.io/badge/Translate_with-Google-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
-[![Translate (DeepL)](https://img.shields.io/badge/Translate_with-DeepL-0F52BA?style=neon&labelColor=0b0d0f&logo=deepl&logoColor=FFFFFF)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/README.md)
+[![🌍 Translate this Page](https://img.shields.io/badge/Translate_with-Google-4285F4?style=neon&logo=googletranslate&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Wotcnt)
+[![Translate (DeepL)](https://img.shields.io/badge/Translate_with-DeepL-0F52BA?style=neon&labelColor=0b0d0f&logo=deepl&logoColor=FFFFFF)](https://www.deepl.com/translator#auto/en/https://github.com/Wotcnt)
 
 ---
 
