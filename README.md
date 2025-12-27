@@ -84,6 +84,9 @@ Codex Canon AΩ-013 · ΔΔΩΔ
 Timestamp Locked · Trace Context Declared
 ──────────────────────────────────────────────────────────────
 -->
+
+![Banner](Banner.png)
+
 <div align="center">
 
 # Conner Brown-Milliken 
@@ -255,6 +258,34 @@ Low-signal engagement—speculation-only outreach, summary requests, or argument
 *Clarity beats accessibility.  
 Constraint beats hype.  
 If a claim can’t be bounded, it doesn’t belong in the record.*
+
+---
+
+<details>
+<summary><kbd>🖼️ Visual Appendix · Figures, Glyphs & Reference Images</kbd></summary>
+
+<br>
+
+![For the Dawn](For%20the%20Dawn.png)
+![For the Day](For%20the%20Day.png)
+![Here Am I](Here%20am%20i.png)
+![Polyrifringence Icon](Polyrifringence%20Icon.png)
+![Strange Attractor 1](Strange%20Attractor%201.png)
+![Strange Attractor 2](Strange%20Attractor%202.png)
+![Strange Attractor 3](Strange%20Attractor%203.png)
+![Strange Attractor 4](Strange%20Attractor%204.png)
+![Strange Attractor 5](Strange%20Attractor%205.png)
+![Strange Attractor 6](Strange%20Attractor%206.png)
+![A Codex Glyph](a%20Codex%20Glyph.png)
+![A Strange Glyph](a%20Strange%20Glyph.gif)
+![Mathematical Identity](Mathematical%20identity.png)
+![Phase State Beams](Phase-State-Beams.png)
+![Eyes to See](Eyes%20to%20See.png)
+![Table Cabalistique](Table%20Cabalistique.png)
+![Shamir Secret Sharing](Shamir%20Secret%20Sharing.jpg)
+![I-Beam Print Close Up](ibeam-print%20close%20up.jpg)
+
+</details>
 
 ---
 
