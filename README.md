@@ -155,6 +155,28 @@ Timestamp Locked · Trace Context Declared
 [![Advanced Strategic Capabilities Accelerator](https://img.shields.io/badge/ASCA_🦘-Strategic_Capabilities-0F52BA?style=neon&labelColor=0b0d0f&logo=radar&logoColor=0F52BA)](https://www.asca.gov.au/)
 [![WikiLeaks](https://img.shields.io/badge/WikiLeaks-Public_Disclosure-000000?style=neon&labelColor=0b0d0f&logo=wikipedia&logoColor=white)](https://wikileaks.org)
 
+---
+
+## 🏛️ Referenced Institutions (Non-Affiliated)
+
+---
+
+🔲 **Third-Party References & Visual Markers** 🔲
+
+My repositories makes use of third-party names, icons, logos, and visual references  
+(e.g. NVIDIA, PyTorch, ROLI, GitHub, WikiLeaks, DSTG, ASCA, Cloudflare, SandDance)  
+as **descriptive, technical, or illustrative markers**.
+
+Their inclusion indicates:
+
+- implementation substrates  
+- compatible tooling or platforms  
+- infrastructure or institutional classes  
+- widely recognized reference points within technical and research contexts  
+
+They **do not imply** endorsement, sponsorship, partnership, approval, affiliation, or promotion by the respective organizations.
+
+All trademarks, names, and logos remain the property of their respective owners and are used here **solely for clarity, interoperability reference, and visual communication** within a technical framework.
 
 ---
 
