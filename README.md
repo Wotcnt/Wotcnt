@@ -109,14 +109,17 @@ Timestamp Locked · Trace Context Declared
 ---
 
 <div align="center">
- 
+
+[![Web Browser](https://img.shields.io/badge/Chromium_Based-black?style=flat&logo=googlechrome&logoColor=555555)](https://www.chromium.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat&logo=codeforces&logoColor=white)](https://code.visualstudio.com/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-black?style=flat&logo=notepadplusplus&logoColor=brightgreen)](https://notepad-plus-plus.org/downloads/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-black?style=flat&logo=codeforces&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat&logo=codeforces&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
@@ -125,7 +128,7 @@ Timestamp Locked · Trace Context Declared
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=plotly&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -135,6 +138,17 @@ Timestamp Locked · Trace Context Declared
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-56E9DB?style=neon&labelColor=0b0d0f&logo=googlechrome&logoColor=555555)](https://chat.openai.com)
+[![Grok](https://img.shields.io/badge/Grok-X.com-000000?style=neon&labelColor=0b0d0f&logo=x&logoColor=white)](https://x.com)
+[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-000000?style=neon&labelColor=0b0d0f&logo=x&logoColor=white)](https://grok.com)
+[![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=0b0d0f&logo=anthropic&logoColor=D24D0F)](https://www.anthropic.com/claude)
+[![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=0b0d0f&logo=googlegemini&logoColor=0F52BA)](https://gemini.google.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=0b0d0f&logo=perplexity&logoColor=1FB8CD)](https://www.perplexity.ai)
+[![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=0b0d0f&logo=githubcopilot&logoColor=0078D4)](https://github.com/features/copilot)
+[![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=0b0d0f&logo=githubcopilot&logoColor=0078D4)](https://copilot.microsoft.com)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=0b0d0f&logo=huggingface&logoColor=6D2A8A)](https://lmstudio.ai)
+
 
 ---
 
@@ -196,7 +210,8 @@ Repo: <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><kbd>Polyrifrin
 ![Lambda Clearance Authorial](https://img.shields.io/badge/Lambda_Clearance:_🅾️-Authorial-B31B1B?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Time-bounded clearance issued directly by the authorial authority.")
 ![Lifecycle Active](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Active_✔️-046307?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization currently valid and in force.")
 ![Lambda Limited License](https://img.shields.io/badge/𝛌⃝ambda_Ⓛimited_Ⓛicense:_📘-Author--Approved_Limited--Use_Canon--Bound--Extension_⛑️-0F52BA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Limited-use authorization granted under explicit authorial approval.")
-
+[![Research Framework](https://img.shields.io/badge/Project_Research_Framework:-Hybrid_Domain--Agnostic_Hardware--Independent_Computational_Structure-3ee7ff?style=neon&logo=codemirror&logoColor=3ee7ff&labelColor=000000&color=111111)](https://en.wikipedia.org/wiki/Computational_science)
+[![GPT Integration](https://img.shields.io/badge/Project_GPT_Integration:-Polyrifringence_Engine_Expert(Gem--Line_AI--CHATBOT)_Using_the_Repositories_Files_as_Knowledge_Base-56E9DB?style=neon&logo=proton&logoColor=56E9DB&labelColor=000000&color=111111)](https://chatgpt.com/g/g-690ba54cdd648191819f793fe7a62988-polyrifringence-engine-expert)
 
 ### 8️⃣ 🤖SIERRA (<ins>Codex-Gateway Runtime</ins>)  
 A **semi-offline autonomous cognitive instrument** implementing embodied recursion: Language ↔ Logic ↔ Memory ↔ Geometry ↔ Observer continuity. SIERRA operates as a single-file, self-verifying runtime featuring neurosymbolic logic (WASM Prolog), entropy firewalls, deterministic retention and replay, fractal lattice dynamics, and low-CPU audio-visual feedback bound to internal state variables. It is designed to demonstrate continuity, identity retention, and recursive stability **entirely offline**.
