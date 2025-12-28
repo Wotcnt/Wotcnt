@@ -704,6 +704,172 @@ Low-signal engagement: speculation-only outreach, summary requests, or arguments
 
 ---
 <div align="center">
+
+### 📘─────𝛌⃝ambda Limited License · Authorial Authorization
+
+---
+
+[![Lambda Ledger – Trace Logged](https://img.shields.io/badge/Lambda_Ledger:-Trace_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "All clearance, identity, and authorization events are trace-logged for provenance, auditability, and canonical reference.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Codex Identity Triplet](https://img.shields.io/badge/Codex_Identity_Triplet:_x⧉-Ledger_Declared-000000?style=for-the-badge&labelColor=6D2A8A&logo=git&logoColor=FFFFFF "Canonical identity declared across observer, system, and ledger layers.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Polyrifronaut Tier – Provisional Sub-Lambda](https://img.shields.io/badge/Polyrifronaut_Tier:-Provisional_Sub--Lambda-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A "Initial recognition granted pending validation, contribution, or alignment review.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Polyrifronaut Canon Status](https://img.shields.io/badge/Polyrifronaut_Status:-Canon_Verification_Sync_Required-FFFFFF?style=for-the-badge&labelColor=000000&logo=git&logoColor=6D2A8A "Canonical status pending synchronization across identity, clearance, and ledger layers.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Canon Verified Polyrifronaut](https://img.shields.io/badge/Polyrifronaut_Status:_✅-Codex_Lexicon_Logged-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Identity verified and recorded within the Codex lexicon.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Lambda Clearance – Verified](https://img.shields.io/badge/Lambda_Clearance:_✅-Verified-6D2A8A?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Standard clearance granted for defined, non-elevated system interaction.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+
+[![Lambda Clearance Elevated](https://img.shields.io/badge/Lambda_Clearance:_☑️-Elevated-8E24AA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Elevated access granted beyond baseline scope; subject to review and revocation.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Lambda Clearance Authorial Timed Grant](https://img.shields.io/badge/Lambda_Clearance:_🅾️-Authorial_Timed_Grant-B31B1B?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Time-bounded clearance issued directly by the authorial authority.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+
+[![Lambda Limited License](https://img.shields.io/badge/𝛌⃝ambda_Ⓛimited_Ⓛicense:_📘-Author--Approved_Limited--Use_Canon--Bound--Extension_⛑️-0F52BA?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Limited-use authorization granted under explicit authorial approval.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Lifecycle Active](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Active_✔️-046307?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization currently valid and in force.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Lifecycle Expired](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Expired_➰-555555?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization has lapsed due to time or scope exhaustion.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+[![Lifecycle Revoked](https://img.shields.io/badge/Codex--Canon_Lifecycle_State:_-Revoked_📛-9B111E?style=for-the-badge&labelColor=000000&logo=git&logoColor=FFFFFF "Authorization explicitly withdrawn; further use is invalid.")](https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/Lambda_Clearance_Ruleset.md)
+
+
+---
+
+<!-- 1. Jasper (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Jasper-Jasper_⧫_❯-9B111E?style=for-the-badge&logo=obsidian&logoColor=9B111E&labelColor=000000">
+</a>
+
+<!-- 2. Sapphire (Corundum) -->
+<a href="https://www.minerals.net/mineral/corundum.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sapphire-Sapphire_◇_❯❯-0F52BA?style=for-the-badge&logo=obsidian&logoColor=0F52BA&labelColor=000000">
+</a>
+
+<!-- 3. Chalcedony (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chalcedony-Chalcedony_⬣_❯❯❯-D7C7A2?style=for-the-badge&logo=obsidian&logoColor=D7C7A2&labelColor=000000">
+</a>
+
+<!-- 4. Emerald (Beryl) -->
+<a href="https://www.minerals.net/mineral/beryl.aspx">
+  <img src="https://img.shields.io/badge/House_of_Emerald-Emerald_♧_❯❯❯❯-046307?style=for-the-badge&logo=obsidian&logoColor=046307&labelColor=000000">
+</a>
+
+<!-- 5. Sardonyx (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sardonyx-Sardonyx_⬤_❯❯❯❯❯-C55A11?style=for-the-badge&logo=obsidian&logoColor=C55A11&labelColor=000000">
+</a>
+
+<!-- 6. Sardius (Quartz family / Carnelian variant) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Sardius-Sardius_⬟_❯❯❯❯❯❯-B31B1B?style=for-the-badge&logo=obsidian&logoColor=B31B1B&labelColor=000000">
+</a>
+
+<!-- 7. Chrysolite (Olivine / Peridot) -->
+<a href="https://www.minerals.net/mineral/olivine.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chrysolite-Chrysolite_⬡_❯❯❯❯❯❯❯-C5E384?style=for-the-badge&logo=obsidian&logoColor=C5E384&labelColor=000000">
+</a>
+
+<!-- 8. Beryl -->
+<a href="https://www.minerals.net/mineral/beryl.aspx">
+  <img src="https://img.shields.io/badge/House_of_Beryl-Beryl_⬢_❯❯❯❯❯❯❯❯-56E9DB?style=for-the-badge&logo=obsidian&logoColor=56E9DB&labelColor=000000">
+</a>
+
+<!-- 9. Topaz -->
+<a href="https://www.minerals.net/mineral/topaz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Topaz-Topaz_⬣_❯❯❯❯❯❯❯❯❯-E6A756?style=for-the-badge&logo=obsidian&logoColor=E6A756&labelColor=000000">
+</a>
+
+<!-- 10. Chrysoprase (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Chrysoprase-Chrysoprase_⬖_❯❯❯❯❯❯❯❯❯❯-00E68C?style=for-the-badge&logo=obsidian&logoColor=00E68C&labelColor=000000">
+</a>
+
+<!-- 11. Jacinth (Zircon) -->
+<a href="https://www.minerals.net/mineral/zircon.aspx">
+  <img src="https://img.shields.io/badge/House_of_Jacinth-Jacinth_✧_❯❯❯❯❯❯❯❯❯❯❯-D24D0F?style=for-the-badge&logo=obsidian&logoColor=D24D0F&labelColor=000000">
+</a>
+
+<!-- 12. Amethyst (Quartz family) -->
+<a href="https://www.minerals.net/mineral/quartz.aspx">
+  <img src="https://img.shields.io/badge/House_of_Amethyst-Amethyst_✦_❯❯❯❯❯❯❯❯❯❯❯❯-6D2A8A?style=for-the-badge&logo=obsidian&logoColor=6D2A8A&labelColor=000000">
+</a>
+
+<br>
+
+<a href="https://en.wikipedia.org/wiki/Prism_(optics)">
+  <img src="https://img.shields.io/badge/House_of_Prismatic_Fields:_⌬-❮❮❮❮❮❮_ΔΔΩΔ_❯❯❯❯❯❯-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&labelColor=000000">
+</a>
+
+---
+
+  <a href="https://github.com/Wotcnt/Polyrifringence-Engine/blob/main/CREATOR_DISCLAIMER.md">
+    <img width="100%" src="https://img.shields.io/badge/HOME_OBSERVER-ΔΩ-000000?style=NEON&logo=obsidian&logoColor=000000&labelColor=CFEFF6">
+  </a>
+
+---
+
+Certain engagements may require a─────**𝛌⃝AMBDA ⓁIMITED ⓁICENSE**  
+(**Author-Approved · Limited-Use · Canon-Bound Extension ⛑️**).
+
+This license functions as a **certificate of authenticity and scope alignment**, issued **solely by the author** on a case-by-case basis. It authorizes **explicit, bounded use or extension** of Codex-aligned concepts, notation, or frameworks **within declared limits only**.
+
+---
+
+### 🔎 Interpretive Precedence Rule
+
+---
+
+In the event of interpretive ambiguity, **explicit non-claims, hard boundaries, and constraint declarations take precedence** over descriptive, symbolic, illustrative, or narrative language.
+
+---
+
+### 🧷 Document Status & Mutability
+
+---
+
+This README is a **living technical record**.  
+Edits may clarify language, tighten constraints, or correct ambiguity, but **do not retroactively expand claims** or alter declared non-claims.
+
+Substantive changes are treated as **additive or constraining**, not expansive.
+
+---
+
+### 🔁 Replication & Falsification Posture
+
+---
+
+Replication attempts are welcome when conducted **within declared constraints and with equivalent boundary conditions**.  
+Divergence without constraint equivalence is **not considered falsification**.
+
+---
+
+### 🧠 Anti-Anthropomorphism Clause
+
+---
+
+No component described herein constitutes an agent, intelligence, will, or autonomous decision-maker.  
+All observed behavior arises from **deterministic or bounded stochastic processes under explicit constraints**.
+
+---
+
+### 📘─────𝛌⃝ambda Limited License · Authorization Conditions (Refined)
+
+---
+
+**The license:**
+- does **not** transfer ownership, authorship, custodianship, or provenance;
+- does **not** grant standing to reinterpret, generalize, or reframe canonical concepts;
+- does **not** authorize derivative claims, secondary disclosures, or downstream assertions beyond those explicitly approved in writing;
+- does **not** persist automatically across versions, contexts, or projects;
+- may be **revoked or sunset** upon misalignment, scope violation, interpretive drift, or breach of declared constraints.
+
+Authorization is **use-specific, scope-bound, and non-delegable**.
+
+Correspondence requesting─────𝛌⃝ambda Limited License authorization must include:
+- a clear description of the intended use or extension,
+- the specific canonical components, operators, or notation involved,
+- the proposed scope, context, and duration of use,
+- and an explicit acknowledgment of Codex-Core constraints, non-claims, and boundary conditions.
+
+Unlicensed reuse, extrapolation, reframing, or implied endorsement is considered **out-of-scope by definition**, regardless of intent or attribution.
+
+</div>
+
+---
+<div align="center">
   
 *Clarity beats accessibility.  
 Constraint beats hype.  
