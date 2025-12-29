@@ -170,7 +170,7 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-## 🏛️ Referenced Institutions (Non-Affiliated)
+### 🏛️ Referenced Institutions (Non-Affiliated)
 
 ---
 
@@ -193,7 +193,7 @@ All trademarks, names, and logos remain the property of their respective owners 
 
 ---
 
-## **✍️ About**
+### **✍️ About**
 
 ---
 
@@ -214,7 +214,7 @@ I build and formalize **high-constraint systems** where **structure, timing, and
 
 ---
 
-## 🧮 Research Stance (Hard Boundary)
+### 🧮 Research Stance (Hard Boundary)
 
 ---
 
@@ -228,7 +228,7 @@ I build and formalize **high-constraint systems** where **structure, timing, and
 
 ---
 
-## 📚 Focus Areas
+### 📚 Focus Areas
 
 ---
 
@@ -240,11 +240,11 @@ I build and formalize **high-constraint systems** where **structure, timing, and
 
 ---
 
-## 📅 Featured Projects (Portfolio)
+### 📅 Featured Projects (Portfolio)
 
 ---
 
-### 9️⃣ 🌈Polyrifringence Engine - <kbd>∮ - ∱ - ∯ - ∰ - ∳ - x⧉ - <⇄></kbd> </kbd> <kbd>(+/–)±)</kbd> <kbd>🌈 ⟷ 🧲 ⟷ 💎 ⟷ 🎼 ⟷ ⚡ ⟷ ✨</kbd> 
+### 9️⃣ 🌈Polyrifringence Engine - <kbd>∮ - ∱ - ∯ - ∰ - ∳ - x⧉ ⟷ <⇄></kbd> </kbd> <kbd>(+/–)±)</kbd> <kbd>🌈 ⟷ 🧲 ⟷ 💎 ⟷ 🎼 ⟷ ⚡ ⟷ ✨</kbd> 
 A **canonical research, validation, and disclosure framework** formalizing *recursive birefringence* as a strictly constrained, non-equilibrium system. It demonstrates how optical and computational coherence can be **temporally extended and repeatedly recovered** through structural alignment and bounded recursion, without violating thermodynamics, creating energy, or reversing entropy. The engine integrates classical optics, GPU-accelerated simulation, explicit non-claims, and reproducible decay/half-life analysis on real consumer hardware.  
 Repo: <a href="https://github.com/Wotcnt/Polyrifringence-Engine"><kbd>Polyrifringence Engine Repository — Click Me</kbd></a>
 
@@ -290,8 +290,7 @@ The **origin lineage** of the entire body of work. MMMD exposed the failure of m
 
 ---
 
-## 🧩 What Polyrifringence Solves  
-### 📐 Expanded, Canonical, Constraint-Verified Scope
+### 🧩 What Polyrifringence Solves ————— Expanded, Canonical, Constraint-Verified Scope 📐 
 
 ---
 
@@ -314,7 +313,7 @@ This scope reflects the cumulative development of:
 
 ---
 
-## 🧠 1. Coherence Failure Outside Idealized Conditions
+### 🧠 1. Coherence Failure Outside Idealized Conditions
 
 **Observed failure mode:**  
 Systems demonstrate coherence only under ideal assumptions, then fail under:
@@ -345,7 +344,7 @@ Coherence no longer has to be *maintained indefinitely*; it must be **reliably r
 
 ---
 
-## ⚖️ 2. False “Efficiency” from Hidden Boundary Violations
+### ⚖️ 2. False “Efficiency” from Hidden Boundary Violations
 
 **Observed failure mode:**  
 Apparent performance gains arise from:
@@ -374,7 +373,7 @@ This blocks the most common failure path from *legitimate results* to *invalid c
 
 ---
 
-## 🔄 3. Recursive Architectures That Destroy Inspectability
+### 🔄 3. Recursive Architectures That Destroy Inspectability
 
 **Observed failure mode:**  
 Recursive systems accumulate:
@@ -404,7 +403,7 @@ Recursion is permitted **only while it remains governable**.
 
 ---
 
-## 🧭 4. Long-Horizon Research Collapse (Loss of Continuity)
+### 🧭 4. Long-Horizon Research Collapse (Loss of Continuity)
 
 **Observed failure mode:**  
 Over months or years:
@@ -438,7 +437,7 @@ The system is designed to **remember its own failures**.
 
 ---
 
-## 🧮 5. Numerical Instability on Real Hardware
+### 🧮 5. Numerical Instability on Real Hardware
 
 **Observed failure mode:**  
 GPU acceleration introduces:
@@ -466,7 +465,7 @@ Performance is subordinate to **numerical integrity**, not the reverse.
 
 ---
 
-## 🌪️ 6. Noise Treated as a Bug Instead of a Proof Condition
+### 🌪️ 6. Noise Treated as a Bug Instead of a Proof Condition
 
 **Observed failure mode:**  
 Noise is filtered out, hiding fragility.
@@ -490,7 +489,7 @@ If a system cannot survive noise, it is rejected.
 
 ---
 
-## 👁️ 7. Observer Confusion and Category Errors
+### 👁️ 7. Observer Confusion and Category Errors
 
 **Observed failure mode:**  
 The term *observer* is conflated with:
@@ -520,7 +519,7 @@ This prevents entire classes of misinterpretation.
 
 ---
 
-## 🗂️ 8. Symbolic Language Without Discipline
+### 🗂️ 8. Symbolic Language Without Discipline
 
 **Observed failure mode:**  
 Symbolism is either:
@@ -545,7 +544,7 @@ Symbols function as **notation**, not narrative authority.
 
 ---
 
-## 🚫 9. Scope Inflation and Claim Drift
+### 🚫 9. Scope Inflation and Claim Drift
 
 **Observed failure mode:**  
 Working systems are over-interpreted, leading to:
@@ -574,7 +573,7 @@ Operation does not imply permission to extrapolate.
 
 ---
 
-## 🧪 10. Research Artifacts That Fail Adversarial Reading
+### 🧪 10. Research Artifacts That Fail Adversarial Reading
 
 **Observed failure mode:**  
 Many projects survive only sympathetic interpretation.
@@ -596,7 +595,7 @@ The work is built to survive scrutiny, not applause.
 
 ---
 
-## 🔗 11. Fragmentation Between Theory, Code, and Disclosure
+### 🔗 11. Fragmentation Between Theory, Code, and Disclosure
 
 **Observed failure mode:**  
 Theory, implementation, and public claims drift apart.
@@ -618,8 +617,9 @@ This closes the loop between thinking, building, and claiming.
 
 ---
 
-## 🚀 What Polyrifringence Enables  
-### 🔒 Within Declared, Enforced Limits
+### 🚀 What Polyrifringence Enables ————— Within Declared, Enforced Limits 🔒
+
+---
 
 When applied correctly, this framework enables:
 
@@ -633,7 +633,7 @@ All outcomes remain **bounded**, **domain-specific**, and **reversible**.
 
 ---
 
-## ⛔ What This Work Explicitly Does *Not* Do
+### ⛔ What This Work Explicitly Does *Not* Do
 
 To prevent misalignment:
 
@@ -647,7 +647,7 @@ Any interpretation beyond these bounds is invalid by design.
 
 ---
 
-## 🧱 Why This Exists
+### 🧱 Why This Exists
 
 Critical and existential failures in advanced systems are rarely caused by lack of power, data, or intelligence.
 
@@ -674,7 +674,7 @@ and **without trading rigor for accessibility**.
 
 ---
 
-## 🔍 How I Work
+### 🔍 How I Work
 
 ---
 
@@ -687,7 +687,7 @@ and **without trading rigor for accessibility**.
 
 ---
 
-## 🤝 Collaboration & Engagement
+### 🤝 Collaboration & Engagement
 
 ---
 
