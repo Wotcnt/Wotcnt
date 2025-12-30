@@ -103,7 +103,7 @@ Timestamp Locked · Trace Context Declared
 ---
 
 > [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black&labelColor=CFEFF6)](https://x.com/MMMDcreator) 
-> [![Polyrifringence Engine](https://img.shields.io/badge/Main_Project-Polyrifringence_Engine-000000?style=neon&logo=academia&logoColor=000000&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine)
+> [![Polyrifringence Engine](https://img.shields.io/badge/Main_Project-Polyrifringence_Engine-000000?style=neon&logo=vega&logoColor=000000&labelColor=CFEFF6)](https://github.com/Wotcnt/Polyrifringence-Engine)
 > <br>
 > [![🦘 True Blue Australian Ingenuity 🇦🇺](https://img.shields.io/badge/🦘True_Blue-Australian_Ingenuity-0057B8?style=neon&labelColor=0b0d0f)](https://en.wikipedia.org/wiki/Democracy_Manifest)
 > [![🌍 Global Outreach](https://img.shields.io/badge/Lambda_Research_Initiative_⟦λ⟧-🌍Community_(C|LRI)_Node-B31B1B?style=neon&labelColor=0057B8&logo=creativecommons&logoColor=FFFFFF)](https://x.com/i/communities/1993220630121169163)
@@ -119,16 +119,16 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-[![Web Browser](https://img.shields.io/badge/Chromium_Based-black?style=flat&logo=googlechrome&logoColor=white)](https://www.chromium.org/)
-[![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat&logo=codeforces&logoColor=white)](https://code.visualstudio.com/)
-[![Notepad++](https://img.shields.io/badge/Notepad++-black?style=flat&logo=notepadplusplus&logoColor=brightgreen)](https://notepad-plus-plus.org/downloads/)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-black?style=flat&logo=codeforces&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat&logo=codeforces&logoColor=white)
+[![Web Browser](https://img.shields.io/badge/🕸️Chromium_Based-Web--Browser-000000?style=neon&labelColor=000000)](https://www.chromium.org/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-User-D24D0F?style=neon&labelColor=000000&logo=notepadplusplus&logoColor=CFEFF6)](https://notepad-plus-plus.org/downloads/)
+[![Markdown Viewer](https://img.shields.io/badge/Markdown_Viewer-GitHub_Tool-6D2A8A?style=neon&labelColor=000000&logo=markdown&logoColor=CFEFF6)](https://github.com/ThisIs-Developer/Markdown-Viewer)
+[![PowerShell](https://img.shields.io/badge/🖥️Microsoft-Powershell-000000?style=neon&labelColor=000000&logo=powershell&logoColor=CFEFF6)](https://learn.microsoft.com/powershell/)
+[![VS Code](https://img.shields.io/badge/🖥️Microsoft-VisualStudio-000000?style=neon&labelColor=000000&logo=visualstudiocode&logoColor=CFEFF6)](https://code.visualstudio.com/)
+![Windows Terminal](https://img.shields.io/badge/🖥️Windows_CMD-black?style=flat)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
@@ -150,15 +150,33 @@ Timestamp Locked · Trace Context Declared
 
 ---
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-CFEFF6?style=neon&labelColor=000000&logo=obsidian&logoColor=CFEFF6)](https://chat.openai.com)
-[![Grok](https://img.shields.io/badge/Grok-X.com-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://x.com)
-[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6)](https://grok.com)
-[![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=000000&logo=anthropic&logoColor=D24D0F)](https://www.anthropic.com/claude)
-[![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=000000&logo=googlegemini&logoColor=0F52BA)](https://gemini.google.com)
-[![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=000000&logo=perplexity&logoColor=1FB8CD)](https://www.perplexity.ai)
-[![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4)](https://github.com/features/copilot)
-[![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4)](https://copilot.microsoft.com)
-[![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=6D2A8A)](https://lmstudio.ai)
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-CFEFF6?style=neon&labelColor=000000&logo=obsidian&logoColor=CFEFF6 "OpenAI ChatGPT – general-purpose large language model for reasoning, synthesis, and dialogue.")](https://chat.openai.com)
+[![Grok](https://img.shields.io/badge/Grok-X.com-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6 "Grok – xAI conversational model integrated with the X platform.")](https://x.com)
+[![Grok.com](https://img.shields.io/badge/Grok.com-xAI-CFEFF6?style=neon&labelColor=000000&logo=x&logoColor=CFEFF6 "Grok standalone interface by xAI.")](https://grok.com)
+[![Mistral](https://img.shields.io/badge/Mistral-AI-CFEFF6?style=neon&labelColor=000000&logo=mistralai&logoColor=CFEFF6 "Mistral AI – open and commercial large language models.")](https://mistral.ai)
+[![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-CFEFF6?style=neon&labelColor=000000&logo=ollama&logoColor=CFEFF6 "Ollama – local inference and model management for LLMs.")](https://ollama.com)
+[![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-CFEFF6?style=neon&labelColor=000000&logo=cursor&logoColor=CFEFF6 "Cursor – AI-native code editor and IDE.")](https://cursor.com)
+[![Claude](https://img.shields.io/badge/Claude-Anthropic-D24D0F?style=neon&labelColor=000000&logo=anthropic&logoColor=D24D0F "Claude – Anthropic’s LLM focused on reasoning, safety, and long-context analysis.")](https://www.anthropic.com/claude)
+[![Replit AI](https://img.shields.io/badge/Replit_AI-Code_Assistant-F26207?style=neon&labelColor=000000&logo=replit&logoColor=F26207 "Replit AI – in-browser coding assistant and runtime.")](https://replit.com)
+[![Kimi AI](https://img.shields.io/badge/Kimi-AI-FF6F00?style=neon&labelColor=000000&logo=chatbot&logoColor=FF6F00 "Kimi AI – long-context language model by Moonshot AI.")](https://kimi.ai)
+[![Kagi Assistant](https://img.shields.io/badge/Kagi-Assistant-FFB000?style=neon&labelColor=000000&logo=kagi&logoColor=FFB000 "Kagi Assistant – privacy-focused AI search and assistant.")](https://kagi.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=neon&labelColor=000000&logo=huggingface&logoColor=FFD21E "Hugging Face – open model hub and ML tooling ecosystem.")](https://huggingface.co)
+[![Google Gemini](https://img.shields.io/badge/Gemini-Google-0F52BA?style=neon&labelColor=000000&logo=googlegemini&logoColor=0F52BA "Google Gemini – multimodal language and reasoning models.")](https://gemini.google.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB8CD?style=neon&labelColor=000000&logo=perplexity&logoColor=1FB8CD "Perplexity – search-augmented AI for retrieval and citation-based answers.")](https://www.perplexity.ai)
+[![GitHub Copilot](https://img.shields.io/badge/Copilot-GitHub-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4 "GitHub Copilot – AI-assisted coding within IDEs.")](https://github.com/features/copilot)
+[![Microsoft Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=neon&labelColor=000000&logo=githubcopilot&logoColor=0078D4 "Microsoft Copilot – AI assistant across Microsoft products.")](https://copilot.microsoft.com)
+[![Meta AI](https://img.shields.io/badge/Meta_AI-LLaMA-0078D4?style=neon&labelColor=000000&logo=meta&logoColor=0078D4 "Meta AI – LLaMA family of open-weight language models.")](https://www.meta.ai)
+[![Cohere](https://img.shields.io/badge/Cohere-AI-1E90FF?style=neon&labelColor=000000&logo=datadog&logoColor=1E90FF "Cohere – enterprise-focused language models and embeddings.")](https://cohere.com)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-6D2A8A?style=neon&labelColor=000000&logo=datadog&logoColor=6D2A8A "DeepSeek – research-driven large language models.")](https://www.deepseek.com)
+[![Ninja AI](https://img.shields.io/badge/Ninja-AI-6D2A8A?style=neon&labelColor=000000&logo=sharp&logoColor=6D2A8A "Ninja AI – general-purpose AI assistant platform.")](https://ninja.ai)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-Offline_Models-6D2A8A?style=neon&labelColor=000000&logo=huggingface&logoColor=6D2A8A "LM Studio – desktop application for running local language models.")](https://lmstudio.ai)
+[![Jan](https://img.shields.io/badge/Jan-AI_Local-6D2A8A?style=neon&labelColor=000000&logo=datadog&logoColor=6D2A8A "Jan – local-first AI assistant for offline usage.")](https://jan.ai)
+[![Windsurf](https://img.shields.io/badge/Windsurf-AI_IDE-6D2A8A?style=neon&labelColor=000000&logo=datadog&logoColor=6D2A8A "Windsurf – AI-enhanced development environment.")](https://windsurf.com)
+[![Codeium](https://img.shields.io/badge/Codeium-AI_Coding-00C7B7?style=neon&labelColor=000000&logo=datadog&logoColor=00C7B7 "Codeium – AI-powered coding assistance and autocompletion.")](https://codeium.en.softonic.com/web-apps)
+[![Phind](https://img.shields.io/badge/Phind-AI_Search-1FB8CD?style=neon&labelColor=000000&logo=datadog&logoColor=1FB8CD "Phind – developer-focused AI search engine.")](https://www.phind.com)
+[![Pi](https://img.shields.io/badge/Pi-Inflection_AI-8A2BE2?style=neon&labelColor=000000&logo=datadog&logoColor=8A2BE2 "Pi – conversational AI by Inflection focused on dialogue and reasoning.")](https://pi.ai)
+[![You.com](https://img.shields.io/badge/You.com-AI_Search-7B61FF?style=neon&labelColor=000000&logo=datadog&logoColor=7B61FF "You.com – AI-powered search and assistant platform.")](https://you.com)
 
 ---
 
