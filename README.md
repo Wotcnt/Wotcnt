@@ -100,6 +100,12 @@ Timestamp Locked · Trace Context Declared
 # Conner Brown-Milliken 
 > **_<ins>Independent · Conceptualiser · Theorizer · Researcher · 🇦🇺</ins>_**  
 
+> Coherence decays because structure drifts.
+If structure is recursively constrained, drift slows.
+If drift slows, coherence persists longer.
+No additional energy is added. Only lawful higher-order symmetry.
+Structure, passively reorganised under geometric constraint.
+
 ---
 
 > [![Follow on X](https://img.shields.io/badge/@MMMDcreator-Click_to_Follow-white?style=social&logo=x&logoColor=black&labelColor=CFEFF6)](https://x.com/MMMDcreator) 
